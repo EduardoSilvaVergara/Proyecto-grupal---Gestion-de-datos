@@ -1,1 +1,1 @@
-# Proyecto-grupal---Gesti-n-de-datos
+# Proyecto-grupal---Gestion-de-datos
