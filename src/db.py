@@ -1,9 +1,7 @@
-import psycopg2
+import psycopg
 
-conn = psycopg2.connect(
-    host="localhost",
-    database="proyecto",
-    user="admin",
-    password="admin"
+conn = psycopg.connect(
+    "host=localhost port=5433 dbname=proyecto user=admin password=admin"
 )
-print("Conectado")
+
+print("Conectado 🚀")
